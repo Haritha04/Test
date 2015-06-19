@@ -1,0 +1,3 @@
+language: objective-c
+xcode_project: TestTravis.xcodeproj /Users/imaginnovatedeveloper/Documents/R&D/TestTravis
+xcode_scheme: TestTravis
