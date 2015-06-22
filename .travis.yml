@@ -3,3 +3,4 @@ xcode_project: TestProject/TestProject.xcodeproj
 xcode_scheme: TestProject
 script:
   - xctool -project TestProject/TestProject.xcodeproj -scheme MyAppTests -sdk iphonesimulator -configuration Release TEST_AFTER_BUILD=YES 
+  - xctool test -project TestProject/TestProject.xcodeproj -scheme MyAppTests -sdk iphonesimulator
