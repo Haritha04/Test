@@ -2,4 +2,4 @@ language: objective-c
 xcode_project: TestProject/TestProject.xcodeproj 
 xcode_scheme: TestProject
 script:
-  - xcodebuild -project TestProject/TestProject.xcodeproj -scheme TestProject iphonesimulator
+  xcodebuild -project TestProject/TestProject.xcodeproj -scheme TestProject iphonesimulator
