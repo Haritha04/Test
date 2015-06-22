@@ -2,5 +2,5 @@ language: objective-c
 xcode_project: TestProject/TestProject.xcodeproj 
 xcode_scheme: TestProject
 script:
-  - xctool -project TestProject/TestProject.xcodeproj -scheme TestProject -sdk iphonesimulator
-  - xctool test -project TestProject/TestProject.xcodeproj -scheme TestProject -sdk iphonesimulator
+  - xctool -project TestProject/TestProject.xcodeproj -scheme TestProject 
+  - xctool test -project TestProject/TestProject.xcodeproj -scheme TestProject 
