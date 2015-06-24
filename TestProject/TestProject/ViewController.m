@@ -12,14 +12,14 @@
 {
     NSString *testing;
 }
-
+-(IBAction)testTravis:(id)sender;
 @end
 
 @implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    testing=
+  //  testing=
     // Do any additional setup after loading the view, typically from a nib.
 }
 
