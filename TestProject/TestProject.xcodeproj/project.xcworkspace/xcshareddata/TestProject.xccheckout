@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>61385341-1630-4ED0-B9E0-2940E91B3660</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>TestProject</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>592B1963B7F8E6F0378FA344A16671CCD060FE0B</key>
 		<string>https://github.com/Haritha04/Test.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TestProject/TestProject.xcodeproj/project.xcworkspace</string>
+	<string>TestProject/TestProject.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>592B1963B7F8E6F0378FA344A16671CCD060FE0B</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>592B1963B7F8E6F0378FA344A16671CCD060FE0B</string>
 			<key>IDESourceControlWCCName</key>
-			<string>TestProject</string>
+			<string>Haritha</string>
 		</dict>
 	</array>
 </dict>
